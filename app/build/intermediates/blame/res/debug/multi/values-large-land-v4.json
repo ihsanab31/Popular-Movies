@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\IAK Intermediete\\Final Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-land-v4\\values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "E:\\IAK Intermediete\\Final Project\\app\\src\\main\\res\\values-large-land\\numerics.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]

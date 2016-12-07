@@ -1,0 +1,12 @@
+
+    <GridView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:numColumns="auto_fit"
+        android:id="@+id/main_fragment_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchMode="columnWidth"
+        tools:context="com.subeng.popularmovies.MainActivityFragment"
+        tools:showIn="@layout/activity_main"></GridView>
+

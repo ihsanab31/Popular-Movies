@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="landscape">true</bool>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <integer name="divisor">2</integer>
+    <integer name="grid_columns">4</integer>
+</resources>

@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\IAK Intermediete\\Final Project\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-large-port-v4\\values-large-port-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "E:\\IAK Intermediete\\Final Project\\app\\src\\main\\res\\values-large-port\\booleans.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 57,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "E:\\IAK Intermediete\\Final Project\\app\\src\\main\\res\\values-large-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 39,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "E:\\IAK Intermediete\\Final Project\\app\\src\\main\\res\\values-large-port\\numerics.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 39,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 44,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "E:\\IAK Intermediete\\Final Project\\app\\src\\main\\res\\values-large-port\\numerics.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Dec 06 20:10:20 ICT 2016
+base.0=E\:\\IAK Intermediete\\Final Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\IAK Intermediete\\Final Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

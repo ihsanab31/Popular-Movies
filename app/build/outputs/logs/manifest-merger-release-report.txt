@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:3:1-35
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:5:1-63
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:5:18-60
+application
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:7:1-20:15
+MERGED from [com.android.support:design:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:7:76-108
+	android:supportsRtl
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:8:5-31
+	android:allowBackup
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:7:14-40
+	android:icon
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:7:41-75
+	android:theme
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:8:32-63
+activity#com.subeng.popularmovies.MainActivity
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:9:5-15:16
+	android:label
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:9:68-100
+	android:theme
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:9:101-144
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:9:15-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:10:9-14:25
+action#android.intent.action.MAIN
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:11:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:13:23-70
+activity#com.subeng.popularmovies.DetailActivity
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:16:5-19:16
+	android:label
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:16:70-114
+	android:parentActivityName
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:17:9-75
+	android:theme
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:17:76-119
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:16:15-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:18:9-123
+	android:value
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:18:67-120
+	android:name
+		ADDED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml:18:20-66
+uses-sdk
+INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\IAK Intermediete\Final Project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK Intermediete\Final Project\app\src\main\AndroidManifest.xml
