@@ -3,8 +3,8 @@ Aplikasi Serial Movie akan menampilkan cover movie, detail movie, trailer, dan r
 
 ### Screenshots:
 <img src="Capture" width="200" />
-<img src="Screenshot_2016-12-07-22-17-39" width="200" />
-<img src="Screenshot_2016-12-07-22-18-07" width="200" />
-<img src="Screenshot_2016-12-07-22-18-26" width="200" />
-<img src="Screenshot_2016-12-07-22-18-15" width="200" />
+<img src="Screenshot_2016-12-07-22-17-39.png" width="200" />
+<img src="Screenshot_2016-12-07-22-18-07.png" width="200" />
+<img src="Screenshot_2016-12-07-22-18-26.png" width="200" />
+<img src="Screenshot_2016-12-07-22-18-15.png" width="200" />
 
